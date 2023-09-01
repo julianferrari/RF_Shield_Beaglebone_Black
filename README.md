@@ -5,5 +5,5 @@ PCB de doble capa diseñado para usarse como shield de la Beaglebone Black, como
 
 ![image]([https://user-images.githubusercontent.com/14803755/211785648-6acad60e-0767-459b-98d0-2cfc0a5ebcfa.png])
 
-# 
+![image](https://github.com/julianferrari/RF_Shield_Beaglebone_Black/blob/master/PCB_shield2.png) 
 PCB de doble capa diseñado para usarse como shield de la Beaglebone Black, como interfaz de un sistema de comunicaciones RF.
